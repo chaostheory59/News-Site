@@ -1,0 +1,29 @@
+{
+  "name": "mongoose_skeleton",
+  "version": "1.0.0",
+  "description": "### Overview",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mongoose": "^5.0.11",
+    "morgan": "^1.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaostheory59/News-Site.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chaostheory59/News-Site/issues"
+  },
+  "homepage": "https://github.com/chaostheory59/News-Site#readme"
+}
